@@ -1,6 +1,6 @@
 # Map Maker Project
 
-I created a 2D-game sprite-based map maker a couple years ago that allows you to save maps in progress and export finished maps as PNG image files.
+I created a 2D-game sprite-based map maker from scratch a couple years ago that allows you to save maps in progress and export finished maps as PNG image files.
 
 Features:
 
